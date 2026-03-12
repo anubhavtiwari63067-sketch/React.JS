@@ -1,0 +1,36 @@
+Why we learn react?
+It's a very popular js library which makes easy to manage & build complex front-end.
+
+When we should learn react?
+After mastering JavaScript.
+
+React learning process?
+go in depth=> bable & fibre, virtual DOM, different algorithms, hydration...
+by making projects (one topic at a time) => todo app , calculator, github API.
+
+React is a library=> Framework VS library.
+
+Topic to learn....
+core of react(state or ui manipulation, jsx)
+components reusability.
+reusing of components(propertys)
+how to propagate change(hooks).
+
+Addintional addon to React.....
+router(react don't have router).
+state management (react don't have a state management).
+redus, redus toolkit , zustand , context API.
+class based components.
+BAAS Apps....
+social media clone , e- commerce App.
+
+After React...
+react is not a complete solution in most case 
+no seo, browser redus of JS, no routing.
+
+Framework .....
+Next.js, gateby, remix.....
+
+React hai two major parts....
+React DOM=> for web dvelopememt.
+React Native=> for mobile app developement.
