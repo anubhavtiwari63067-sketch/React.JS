@@ -1,8 +1,13 @@
-# Task: Fix "message port closed" error and ensure "hello anubhav" prints
+## TODO: Install tailwind.config.js for 04tailwindprops project
 
-## Steps:
-- [x] Step 1: Fix CustomReact/index.html script src
-- [x] Step 2: Update CustomReact/customreact.js to render h1 "hello anubhav" 
-- [x] Step 3: Remove missing CSS import in 01basiccreate/01viteReact/src/main.jsx
-- [ ] Step 4: Test Vite dev server in 01basiccreate (user's root)
-- [ ] Step 5: Complete
+### Pending Steps:
+1. **Create tailwind.config.js** in `04tailwindprops/` with basic Tailwind v4 config (content: ./src/**/*.{js,jsx}).
+   - [ ] Complete
+
+### Completed Steps:
+*(none yet)*
+
+### Follow-up:
+- Test with `cd 04tailwindprops && npm run dev`
+- Verify Tailwind classes apply (e.g., add test class to App.jsx).
+
