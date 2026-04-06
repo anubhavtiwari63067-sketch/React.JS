@@ -35,6 +35,7 @@ function App() {
           placeholder='Password'
           readOnly
         />
+        <button className = 'outline-none bg-orange-500 text-white px-3' onClick={() => navigator.clipboard.writeText(password)}>copy</button>
       </div>
 
       <div className='flex text-sm gap-x-2'>
